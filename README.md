@@ -1,5 +1,5 @@
 # Web-Development-Serie
-<h2 align="center">Welcome to Our Web Development Course! 👋🌐</h2> 
+<h1 color="red" align="center">Welcome to Our Web Development Course! 👋🌐</h1> 
 <br>
 <h3>This is our first Serie; where we will dive into the world of designing and building <strong><i>STATIC</i></strong> Websites. </h3>
 <br>
