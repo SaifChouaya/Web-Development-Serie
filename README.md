@@ -9,8 +9,8 @@
 <h5>Note: You can combine the two to create a  <strong><i><u>HYBRID WEBSITE</u></i></strong>. Use the static method for rarely updated sections and the dynamic one for interactive pages.</h5>
 
 <h4>First Session:</h4>
-<h5>Web Design: HTML & CSS</h5>
+<h5>Web Design: HTML & CSS</h5>s
 <h5>Tools: <br> 
        <div style="margin:100">   - Download GIT      <img src="https://icons8.com/icon/20906/git"> <br>
-          - Make a GITHUB           <img src="https://icons8.com/icon/20909/html-5"> <br>
+          - Make a GITHUB           <img src="[https://icons8.com/icon/20909/html-5](https://www.google.com/search?q=html+icon&sca_esv=577627317&tbm=isch&sxsrf=AM9HkKlG33ODr0rCjKHVvTJS9qtIQw5mkg:1698596778635&source=lnms&sa=X&sqi=2&ved=2ahUKEwjHre2M1puCAxWuZ_EDHWxCDFQQ_AUoAXoECAIQAw&biw=1707&bih=786&dpr=1.13#imgrc=9d-9eqZ-gbdubM)https://www.google.com/search?q=html+icon&sca_esv=577627317&tbm=isch&sxsrf=AM9HkKlG33ODr0rCjKHVvTJS9qtIQw5mkg:1698596778635&source=lnms&sa=X&sqi=2&ved=2ahUKEwjHre2M1puCAxWuZ_EDHWxCDFQQ_AUoAXoECAIQAw&biw=1707&bih=786&dpr=1.13#imgrc=9d-9eqZ-gbdubM"> <br>
           - Download Visual Studio Code  </div> </h5> 
