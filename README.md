@@ -13,8 +13,8 @@ Web Design: HTML & CSS</h4>
 <h5>Tools: <br>
           - Download: GIT
            https://git-scm.com/downloads<br>
-          - Make a GITHUB Account <br>
-          - Download: Visual Studio Code & install those Extensions in it: <br>
+          - Make a GITHUB Account https://github.com/<br>
+          - Download: Visual Studio Code & install those Extensions in it: https://code.visualstudio.com/download <br>
           <h6 align="center"><strong><i> 1-Prettier — Code formatter:</i></strong> This extension will help you to format the JavaScript, HTML, CSS code. </h6>
            <h6 align="center"> <strong><i> 2-Live Server:</i></strong> (visualize your code on the web browser directly):It spins up a light Node.js server and serves your HTML file with all assets from the given directory, on top of that any saved changes you make will also be reflected immediately in a browser which gives a really fast experience. </h6>
             <h6 align="center"> <strong><i> 3-Auto Rename Tag:</i></strong> When it is installed, every time you rename a tag, the complimentary opening/closing tag is renamed by itself to match the new tag name.</h6>
