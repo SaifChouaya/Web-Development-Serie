@@ -14,9 +14,8 @@ Web Design: HTML & CSS</h4>
           - Download: GIT <br>
           - Make a GITHUB Account <br>
           - Download: Visual Studio Code & install those Extensions in it: <br>
-          <h6 align="center"><strong><i> Prettier — Code formatter:</i></strong> This extension will help you to format the JavaScript, HTML, CSS code. </h6>
-           <h6 align="center"> <strong><i> Live Server:</i></strong> (visualize your code on the web browser directly):It spins up a light Node.js server and serves your HTML file with all assets from the given directory, on top of that any saved changes you make will also be reflected immediately in a browser which gives a really fast experience. </h6>
-                     Path intellisense is a great tool that makes it easier for files Path.
-            <strong><i> Auto Rename Tag:</i></strong> When it is installed, every time you rename a tag, the complimentary opening/closing tag is renamed by itself to match the new tag name.
-            <strong><i> Path intellisense:</i></strong> Path intellisense is a great tool that makes it easier for files Path.</h5> 
+          <h6 align="center"><strong><i> 1-Prettier — Code formatter:</i></strong> This extension will help you to format the JavaScript, HTML, CSS code. </h6>
+           <h6 align="center"> <strong><i> 2-Live Server:</i></strong> (visualize your code on the web browser directly):It spins up a light Node.js server and serves your HTML file with all assets from the given directory, on top of that any saved changes you make will also be reflected immediately in a browser which gives a really fast experience. </h6>
+            <h6 align="center"> <strong><i> Auto Rename Tag:</i></strong> When it is installed, every time you rename a tag, the complimentary opening/closing tag is renamed by itself to match the new tag name.</h6>
+            <h6 align="center"> <strong><i> Path intellisense:</i></strong> Path intellisense is a great tool that makes it easier for files Path.</h6>   
 Node.js is a cross-platform, open-source server environment t
