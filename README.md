@@ -11,6 +11,6 @@
 <h4>First Session:</h4>
 <h5>Web Design: HTML & CSS</h5>
 <h5>Tools: <br> 
-       <div style="margin:100">   - Download:      GIT <br>
+       <div style="margin:100">   - Download: GIT <br>
           - Make a GITHUB Account <br>
-          - Download:      Visual Studio Code  </div> </h5> 
+          - Download: Visual Studio Code  </div> </h5> 
