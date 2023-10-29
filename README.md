@@ -9,7 +9,7 @@
 <h5>Note: You can combine the two to create a  <strong><i><u>HYBRID WEBSITE</u></i></strong>. Use the static method for rarely updated sections and the dynamic one for interactive pages.</h5>
 
 <h4>First Session:</h4>
-<h5>Web Design: HTML & CSS</h5>s
+<h5>Web Design: HTML & CSS</h5>
 <h5>Tools: <br> 
        <div style="margin:100">   - Download GIT <br>
           - Make a GITHUB  <br>
