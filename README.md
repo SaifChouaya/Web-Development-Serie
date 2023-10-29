@@ -11,7 +11,8 @@
 <h4>First Session:
 Web Design: HTML & CSS</h4>
 <h5>Tools: <br>
-          - Download: GIT <br>
+          - Download: GIT
+           https://git-scm.com/downloads<br>
           - Make a GITHUB Account <br>
           - Download: Visual Studio Code & install those Extensions in it: <br>
           <h6 align="center"><strong><i> 1-Prettier — Code formatter:</i></strong> This extension will help you to format the JavaScript, HTML, CSS code. </h6>
