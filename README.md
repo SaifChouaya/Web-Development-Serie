@@ -3,7 +3,7 @@
 <h4>⭐This is our first Serie; where we will dive into the world of designing and building <strong><i>STATIC</i></strong> Websites ⭐.</h4>
 <h4>We will use in this first Serie: <strong><i>HTML, CSS, and JavaScript</i></strong> 🧑🏻‍💻👩🏻‍💻. 
 <br>Get ready to unleash your creativity and turn your web development dreams into reality 🚀💥.</h4>
-<h5 align="center"> <u> <strong><i>A STATIC WEBSITE</i></strong></u> is a collection of web pages whose content remains the same whenever users access it. Compared to a dynamic website, it is quicker and easier to create but has limited interactivity.<br> Static sites can be built with HTML, CSS, and JavaScript without server-side scripting languages like PHP. Despite the limited functionality, they are excellent for specific use cases, such as portfolios.</h5>
+<h5 align="center"> <strong><i><u>A STATIC WEBSITE</u></i></strong> is a collection of web pages whose content remains the same whenever users access it. Compared to a dynamic website, it is quicker and easier to create but has limited interactivity.<br> Static sites can be built with HTML, CSS, and JavaScript without server-side scripting languages like PHP. Despite the limited functionality, they are excellent for specific use cases, such as portfolios.</h5>
 
 <br>
 <h5>What Is a Dynamic Website?
