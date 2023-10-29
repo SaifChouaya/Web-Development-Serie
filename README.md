@@ -10,6 +10,6 @@
 
 <h4>First Session:</h4>
 <h5>Web Design: HTML & CSS</h5>
-<h5>Tools:- Download GIT <img src="[img_girl.jpg](https://icons8.com/icon/20906/git)">
+<h5>Tools:- Download GIT <img src="https://icons8.com/icon/20906/git">
           - Make a GITHUB 
           - Download Visual Studio Code</h5>
